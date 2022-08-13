@@ -16,7 +16,7 @@ body {
     height: 100vh;
     font-family: Poppins;
     font-weight: 400;
-    background: url(../brand/picture/brand.jpg.jpg);
+    background: url(/picture/Gallery-KITCHEN.jpg);
     background-position: center;
     background-size: cover;
 }
